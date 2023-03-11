@@ -52,5 +52,7 @@ namespace Try2Demo11032023.Windows
                 EmployeeLB.ItemsSource = Data.DataBaseManager.DataBase.Employee.ToList();
             }
         }
+
+        //first commit
     }
 }
